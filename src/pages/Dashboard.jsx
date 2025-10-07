@@ -82,7 +82,7 @@ const Dashboard = () => {
       <ThemeToggle />
 
       <h1>Study Tracker Dashboard</h1>
-      <h3>Student: Sakshi Yadav</h3>
+      <h3>Student: Sonakshi Yadav</h3>
 
       {/* Stat Cards in Grid */}
       <div className="stat-cards">
